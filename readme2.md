@@ -1,0 +1,1 @@
+To get started clone this repo https://github.com/safak/youtube/tree/react-mini
